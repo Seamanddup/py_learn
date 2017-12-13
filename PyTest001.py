@@ -1,4 +1,6 @@
 # -*- coding: cp936 -*-
+#print 你要打印的东西
+#print(你要打印的东西)
 print 'x'
 
 print 'input ur name 如果输入的是非数字，需要用引号'
