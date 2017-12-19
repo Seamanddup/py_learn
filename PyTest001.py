@@ -10,3 +10,8 @@ input()
 print 'ur name is '
 
 print ('xxxx')
+
+
+print "不换行输出"
+print "我是一个",
+print "天才"
