@@ -28,6 +28,13 @@ print '二 2 My age is %d' %num
 #
 #
 
+#多个占位符使用
+print "%s's score is %d" % ('Mike', 87)
+
+name = 'Lily'
+score = 95
+print "%s's score is %d" % (name, score)
+
 #
 #
 #
