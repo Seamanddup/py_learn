@@ -35,6 +35,11 @@ name = 'Lily'
 score = 95
 print "%s's score is %d" % (name, score)
 
+
+myName="Tang"
+myAge=18
+print '{0} is {1} years old,hahahah'.format(myName,myAge)
+
 #
 #
 #
